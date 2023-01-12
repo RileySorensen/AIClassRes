@@ -356,6 +356,7 @@
 "Assets/Scripts/Agent/Perception.cs"
 "Assets/Scripts/Autonomous Agent/AutonomousAgent.cs"
 "Assets/Scripts/Autonomous Agent/Steering.cs"
+"Assets/Scripts/Utilities/Utilities/AgentSpawner.cs"
 "Assets/Scripts/Utilities/Utilities/Utilities.cs"
 -langversion:9.0
 
